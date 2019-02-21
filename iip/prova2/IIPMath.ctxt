@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=epsilon
+comment0.target=int\ numTermes(double)
+comment0.text=\ Torna\ el\ numero\ de\ termes\ que\ s'han\ de\ \n\ \ calcular\ de\ la\ serie\ seguent\:\n\ \ \ \ \ a_1\ \=\ Arrel\ quadrada\ de\ 2\ \n\ \ \ \ \ a_i\ \=\ Arrel\ quadrada\ de\ 2\ *\ a_(i-1)\n\ \ fins\ obtenir-ne\ un\ amb\ valor\ major\ o\ \n\ \ igual\ que\ 2\ -\ epsilon.\n\ \ PRECONDICIO\:\ 0\ <\ epsilon\n
+numComments=1

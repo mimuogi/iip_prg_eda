@@ -1,0 +1,188 @@
+
+
+*******************************************************************************
+Fri Mar 10 12:05:20 2017
+
+
+FIT:    data read from "cercaLineal.out" us 1:2
+        format = x:z
+	y range restricted to [0.00000 : 110000.]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.98667e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 39174.2
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 2.52739
+rel. change during last iteration : -8.13661e-11
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.479336
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.229763
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000408799      +/- 4.514e-06    (1.104%)
+b               = 1.55528          +/- 0.2501       (16.08%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.847  1.000 
+
+
+*******************************************************************************
+Fri Mar 10 12:06:21 2017
+
+
+FIT:    data read from "cercaLineal.out" us 1:2
+        format = x:z
+	y range restricted to [0.00000 : 110000.]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.98667e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 39174.2
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 2.52739
+rel. change during last iteration : -8.13661e-11
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.479336
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.229763
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 0.000408799      +/- 4.514e-06    (1.104%)
+d               = 1.55528          +/- 0.2501       (16.08%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -0.847  1.000 
+
+
+*******************************************************************************
+Fri Mar 10 12:08:20 2017
+
+
+FIT:    data read from "cercaLineal.out" us 1:3
+        format = x:z
+	y range restricted to [0.00000 : 110000.]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6569.95           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 39174.2
+
+initial set of free parameter values
+
+c               = 0.000408799
+d               = 1.55528
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00345314
+rel. change during last iteration : -8.13698e-09
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0177178
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000313922
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -1.1794e-07      +/- 1.668e-07    (141.5%)
+d               = 1.76053          +/- 0.009243     (0.525%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -0.847  1.000 
+
+
+*******************************************************************************
+Fri Mar 10 12:09:01 2017
+
+
+FIT:    data read from "cercaLineal.out" us 1:4
+        format = x:z
+	y range restricted to [0.00000 : 110000.]
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4922.44           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 39174.2
+
+initial set of free parameter values
+
+c               = -1.1794e-07
+d               = 1.76053
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 2.22482
+rel. change during last iteration : -2.36404e-10
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.449729
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.202256
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 0.000364516      +/- 4.235e-06    (1.162%)
+d               = 0.872485         +/- 0.2346       (26.89%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -0.847  1.000 

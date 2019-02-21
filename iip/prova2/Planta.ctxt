@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=numP\ numLlocs
+comment0.target=Planta(int,\ int)
+comment0.text=\ Crea\ una\ Planta\ donats\ un\ numero\ de\ planta\ i\ un\ numero\ \n\ \ de\ llocs.\n\ \ La\ planta,\ a\ l'inici,\ esta\ buida\ (sense\ vehicles).\n\ \ @param\ numP\ int,\ el\ numero\ de\ planta,\ numP\ >\=\ 0.\n\ \ @param\ numLlocs\ int,\ el\ numero\ de\ llocs,\ numLlocs\ >\ 0.\n
+comment1.params=plz\ hEix
+comment1.target=int\ retirar(int,\ iipUtil.Instant)
+comment1.text=\ Torna\ el\ numero\ de\ minuts\ trancorreguts\ des\ de\ l'entrada\ del\n\ \ vehicle\ que\ ocupa\ un\ lloc\ donat\ fins\ una\ hora\ d'eixida\ donada,\n\ \ actualitzant\ la\ planta.\n\ \ @param\ plz\ int,\ el\ numero\ de\ lloc.\ \n\ \ \ \ Precondicio\:\ 0\ <\=\ plz\ <\ llocs.length\ i\ llocs[plz]\ \!\=\ null.\n\ \ @param\ hEix\ Instant,\ l'hora\ d'eixida.\ \n\ \ \ \ Precondicio\:\ posterior\ a\ l'hora\ d'entrada\ del\ vehicle.\n\ \ @return\ int,\ numero\ de\ minuts\ que\ el\ vehicle\ ha\ estat\n\ \ al\ parking.\n
+comment2.params=lletresMat\ hEix
+comment2.target=int\ alliberar(java.lang.String,\ iipUtil.Instant)
+comment2.text=\ Allibera\ tots\ els\ llocs\ ocupats\ per\ aquells\ vehicles\ \n\ \ la\ matricula\ dels\ quals\ conte\ una\ sequencia\ de\ lletres\ \ \n\ \ donada\ (lletresMat),\ tornant\ el\ numero\ total\ de\ minuts\ \ \n\ \ que\ els\ vehicles\ han\ estat\ en\ la\ planta\ fins\ una\ hora\ \n\ \ d'eixida\ donada\ (hEix).\n\ \ @param\ lletresMat\ String,\ sequencia\ de\ lletres\ d'una\ matricula.\n\ \ @param\ hEix\ Instant,\ l'hora\ d'eixida.\ \n\ \ \ \ Precondicio\:\ posterior\ a\ l'hora\ d'entrada\ de\ tots\ \n\ \ \ \ els\ vehicles\ de\ la\ planta.\n\ \ @return\ int,\ el\ numero\ total\ de\ minuts\ transcorreguts.\n
+numComments=3

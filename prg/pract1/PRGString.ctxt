@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=boolean\ esPrefixe(java.lang.String,\ java.lang.String)
+comment0.text=\ Una\ cadena\ a\ \u00E9s\ prefixe\ de\ una\ altra\ cadena\ b\ quan\ tots\ els\ car\u00E0cters\ \r\n\ de\ a\ estan\ consecutius,\ en\ el\ mateix\ ordre\ original,\r\n\ al\ comen\u00E7ament\ de\ b.\r\n\ \r\n\ S'ha\ de\ implementar\ el\ m\u00E8tode\ esPrefixe,\ mitjan\u00E7ant\ el\ qual\ es\ podr\u00E0\ \r\n\ comprovar\ si\ una\ cadena\ \u00E9s\ prefixe\ d\u2019una\ altra.\r\n\ \r\n\ El\ m\u00E8tode\ retornar\u00E0\ true\ en\ cas\ de\ que\ a\ siga\ prefixe\ de\ b,\r\n\ i\ false\ en\ cas\ contrari.\r\n\ \r\n\ PRECONDICI\u00D3\:\ una\ cadena\ no\ pot\ ser\ prefixe\ d\u2019una\ altra\ si\r\n\ la\ primera\ \u00E9s\ de\ longitud\ m\u00E9s\ gran\ que\ la\ segona.\r\n\ \r\n\ @param\ String\ a,\ b.\r\n
+comment1.params=a\ b
+comment1.target=boolean\ esSubcadena(java.lang.String,\ java.lang.String)
+comment1.text=\ Una\ cadena\ a\ \u00E9s\ subcadena\ de\ una\ altra\ cadena\ b\ quan\ tots\ els\ car\u00E0cters\ de\ a\ estan\ consecutius,\ en\ el\ mateix\ ordre\r\n\ original,\ en\ algun\ lloc\ de\ b.\r\n\ \r\n\ El\ m\u00E8tode\ retornar\u00E0\ true\ en\ cas\ de\ que\ a\ siga\ subcadena\ de\ b,\r\n\ i\ false\ en\ cas\ contrari.\r\n\ \r\n\ El\ m\u00E8tode\ esSubcadena\ es\ realitza\ en\ funci\u00F3\ de\ esPrefixe.\ \r\n\ \r\n\ PRECONDICI\u00D3\:\ una\ cadena\ no\ pot\ ser\ subcadena\ d\u2019una\ altra\ si\ la\ primera\ \u00E9s\ de\ \r\n\ longitud\ m\u00E9s\ gran\ que\ la\ segona.\r\n\ \r\n\ @param\ String\ a,\ b.\r\n
+comment2.params=a
+comment2.target=boolean\ esPalindromSA(java.lang.String)
+comment2.text=\ Un\ String\ \u00E9s\ un\ pal\u00EDndrom\ quan\ aquest\ es\ llegeix\ igualment\ en\ un\ sentit\r\n\ (d\u2019esquerra\ a\ dreta)\ que\ en\ l\u2019altre\ (de\ dreta\ a\ esquerra).\r\n\ \r\n\ L\u2019exist\u00E8ncia\ d\u2019espais\ en\ blanc,\ signes\ de\ puntuaci\u00F3,\ ap\u00F2strofs\ i\ guions,\ \r\n\ accents,\ aix\u00ED\ com\ car\u00E0cters\ en\ maj\u00FAscules\ i\ min\u00FAscules\ no\ s\u00F3n\r\n\ significatius\ per\ determinar\ si\ una\ frase\ \u00E9s\ o\ no\ un\ pal\u00EDndrom.\r\n\ \r\n\ El\ m\u00E8tode\ torna\ true\ si\ el\ String\ donat\ \u00E9s\ un\ pal\u00EDndrom,\r\n\ i\ false\ en\ cas\ contrari.\r\n\ \r\n\ CONSIDERACI\u00D3\:\ Els\ car\u00E0cters\ amb\ accents,\ espais\ en\ blanc\ i\ car\u00E0cters\ no\r\n\ pronunciable\ no\ es\ tenen\ en\ compte.\r\n\ \r\n\ @param\ String\ a\r\n
+comment3.params=a
+comment3.target=boolean\ esPalindrom(java.lang.String)
+numComments=4
